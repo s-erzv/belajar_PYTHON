@@ -1,0 +1,1 @@
+print("SI dimari, ada SI jangan lari")
